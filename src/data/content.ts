@@ -6,9 +6,9 @@ export const COMPANY_INFO = {
   tagline: 'INNOVATE • BUILD • ELEVATE',
   subtagline: 'Next-Generation Software Engineering & Digital Systems Architecture',
   email: 'orbitlanetechnology@gmail.com',
-  phone: '+254 769 622 589',
-  phoneDisplay: '+254 769 622 589',
-  whatsappUrl: 'https://wa.me/254769622589?text=Hello%20Orbitlane%20Technologies,%20I%20would%20like%20to%20discuss%20a%20new%20software%20project.',
+  phone: '+254 180 902 279',
+  phoneDisplay: '+254 180 902 279',
+  whatsappUrl: 'https://wa.me/254180902279?text=Hello%20Orbitlane%20Technologies,%20I%20would%20like%20to%20discuss%20a%20new%20software%20project.',
   location: 'Nairobi, Kenya',
   region: 'East Africa & Worldwide Delivery',
   yearsOfExcellence: '5+',
@@ -19,7 +19,7 @@ export const COMPANY_INFO = {
     github: 'https://github.com/orbitlane',
     linkedin: 'https://linkedin.com/company/orbitlane-technologies',
     twitter: 'https://x.com/orbitlanetech',
-    whatsapp: 'https://wa.me/254769622589',
+    whatsapp: 'https://wa.me/254180902279',
   },
 };
 
